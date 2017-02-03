@@ -1,0 +1,15 @@
+
+
+**Project Choice 1: Mustelidae-- carnivorous mammals
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/eeb-177-final-project$ tail -n +19 mustelidae_pbdb_data.csv | cut -d "," -f 6 |sort | uniq | wc -l
+220
+
+
+**Project Choice #2: Camelidae-- camelids
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/eeb-177-final-project$ tail -n +19 camelidae_pbdb_data.csv | cut -d "," -f 6 |sort | uniq | wc -l
+273
+
+
+**Project Choice  3: Felidae
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/eeb-177-final-project$ tail -n +19 mustelidae_pbdb_data.csv | cut -d "," -f 6 |sort | uniq | wc -l
+220
